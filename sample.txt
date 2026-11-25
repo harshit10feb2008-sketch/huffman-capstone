@@ -1,0 +1,2 @@
+Huffman coding is a lossless data compression technique.
+It assigns shorter codes to frequent characters and longer codes to less frequent characters.
